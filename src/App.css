@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans JP", sans-serif;
+}
+.errorMessage {
+  font-size: 1.1em;
+  color: red;
+  display: inline-block;
+}
+body {
+  background: #100F14;
+}
+
+.btn {
+  background: #F7A600;
+}
